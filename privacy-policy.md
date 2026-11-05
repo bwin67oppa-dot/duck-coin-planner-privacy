@@ -46,6 +46,10 @@ If you are in the European Economic Area, the United Kingdom, or Switzerland, th
 
 To learn how Google uses information from apps that show its ads, see [How Google uses information from sites or apps that use our services](https://policies.google.com/technologies/partner-sites). Google's full privacy policy is available at [policies.google.com/privacy](https://policies.google.com/privacy).
 
+### Choices for US Residents
+
+If you live in a US state with applicable privacy laws, you can opt out of the sale or sharing of your personal information for personalised ads. Open the App's menu and select **Ad privacy choices**.
+
 ## 4. Internet Use
 
 The App uses your internet connection only to:
