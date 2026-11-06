@@ -1,6 +1,6 @@
 # Privacy Policy
 
-Last updated: November 2, 2026
+Last updated: November 6, 2026
 
 VisBal ("us", "we", or "our") operates the Duck Coin Planner mobile application (the "App").
 
