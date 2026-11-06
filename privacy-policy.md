@@ -44,11 +44,11 @@ You can reset your advertising ID or opt out of personalised ads at any time in 
 
 If you are in the European Economic Area, the United Kingdom, or Switzerland, the App asks for your consent before personalised ads are shown, using Google's consent tools. You can change or withdraw your choice at any time by opening the App's menu and selecting **Ad privacy choices**.
 
-To learn how Google uses information from apps that show its ads, see [How Google uses information from sites or apps that use our services](https://policies.google.com/technologies/partner-sites). Google's full privacy policy is available at [policies.google.com/privacy](https://policies.google.com/privacy).
-
 ### Choices for US Residents
 
 If you live in a US state with applicable privacy laws, you can opt out of the sale or sharing of your personal information for personalised ads. Open the App's menu and select **Ad privacy choices**.
+
+To learn how Google uses information from apps that show its ads, see [How Google uses information from sites or apps that use our services](https://policies.google.com/technologies/partner-sites). Google's full privacy policy is available at [policies.google.com/privacy](https://policies.google.com/privacy).
 
 ## 4. Internet Use
 
